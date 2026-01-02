@@ -1,0 +1,20 @@
+[
+  {
+    "company": "Company Name",
+    "industry": "FinTech / Banking",
+    "role": "SOC Analyst (Entry Level)",
+    "date": "2026-01-03",
+    "status": "Applied",
+    "notes": "Applied via careers portal",
+    "link": "https://example.com/job-post"
+  },
+  {
+    "company": "Company Name 2",
+    "industry": "Telecom",
+    "role": "Security Operations Intern",
+    "date": "2026-01-01",
+    "status": "Interview",
+    "notes": "HR screening scheduled",
+    "link": ""
+  }
+]
